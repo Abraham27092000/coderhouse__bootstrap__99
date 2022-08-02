@@ -1,0 +1,25 @@
+/*-----------------Header-----------------*/
+
+.header__titulo:hover{
+    zoom:105%;
+}
+
+.header__lista:hover{
+    zoom: 110%;
+}
+
+/*------------------Main------------------*/
+
+.main__img:hover{
+    transform: scale(1.1);
+    border-radius: 5% 0 0 0;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+/*-----------------Footer-----------------*/
+
+.footer__lista:hover{
+    zoom: 110%;
+}
